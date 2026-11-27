@@ -6,7 +6,7 @@
 
 **매장을 한 번 스캔하면, 손님에게 실시간 빈자리가 보인다.**
 
-🏆 신한대학교 소프트웨어중심대학 2026 앱개발 경진대회
+🏆 신한대학교 소프트웨어중심대학 2026 앱개발 경진대회 [최우수상 수상]
 
  [사장님 앱](https://github.com/jari-isseo/jari-isseo-android) · [서버 · 손님 웹](https://github.com/jari-isseo/jari-isseo-server)
 
